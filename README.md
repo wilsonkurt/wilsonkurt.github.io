@@ -1,1 +1,0 @@
-# wilsonkurt.github.io

@@ -682,7 +682,7 @@ input[type="radio"] + label:before {
 	}
 
 		.image.fit img {
-			width: 80%;
+			width: 100%;
 		}
 
 	.image.main {
